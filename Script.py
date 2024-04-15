@@ -175,7 +175,7 @@ Bʏ @TheMovieProviderBot"""
 
 ›› ꜱᴛᴇᴘ 5 : ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ꜰʀᴏᴍ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴛʜᴇɴ, ꜱɪᴍᴘʟʏ ꜱᴇᴛ ʏᴏᴜʀ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴀᴘɪ ᴜꜱɪɴɢ ᴛʜᴇ /shortlink ᴄᴏᴍᴍᴀɴᴅ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink onepagelink.in 6824abcbe090bdfe2053bdbff5cf29932f4bf24e</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink  onepagelink.in 6824abcbe090bdfe2053bdbff5cf29932f4bf24e</code>
 
 <b>›› ꜱᴛᴇᴘ 6 : ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
